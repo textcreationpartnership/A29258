@@ -1,0 +1,455 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An essay towards promoting all necessary and useful knowledge, both divine and human in all parts of His Majesty's dominions, both at home and abroad / by Thomas Bray.</title>
+            <author>Bray, Thomas, 1658-1730.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29258</idno>
+            <idno type="STC">Wing B4293</idno>
+            <idno type="STC">ESTC R25941</idno>
+            <idno type="EEBO-CITATION">09296488</idno>
+            <idno type="OCLC">ocm 09296488</idno>
+            <idno type="VID">42646</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29258)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42646)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1303:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An essay towards promoting all necessary and useful knowledge, both divine and human in all parts of His Majesty's dominions, both at home and abroad / by Thomas Bray.</title>
+                  <author>Bray, Thomas, 1658-1730.</author>
+                  <author>Bray, Thomas, 1658-1730. Catalogue of books design'd to lay the foundation of lending-libraries.</author>
+               </titleStmt>
+               <extent>[6], 22, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Holt for Robert Clavel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The catalogue of books design'd to lay the foundation of lending-libraries": p.17-22.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church libraries.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42646:1" rendition="simple:additions"/>
+            <p>AN ESSAY Towards Promoting all Neceſſary and Uſeful Knowledge, BOTH <hi>Divine and Human.</hi> In all the PARTS of <hi>His</hi> MAJESTY<hi>'s Dominions,</hi> Both at Home and Abroad.</p>
+            <p>
+               <hi>By</hi> THOMAS BRAY, <hi>D.D.</hi>
+            </p>
+            <q>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <bibl>
+                  <hi>Clemens Alex. Ad<g ref="char:EOLhyphen"/>monit. ad Gentes.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. Holt</hi> for <hi>Robert Clavel,</hi> at the <hi>Peacock</hi> in St. <hi>Paul</hi>'s Church-Yard, MDCXCVII.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:42646:2"/>
+            <pb facs="tcp:42646:2"/>
+            <head>TO THE READER.</head>
+            <p>KNowledge is the faireſt Ornament of the Soul of Man; and whoſo<g ref="char:EOLhyphen"/>ever is Endow'd therewith, let it be of any kind, which is not miſchievous, fails not of Eſteem amongſt all ſorts of Perſons. This is certain, that Knowledge does more di<g ref="char:EOLhyphen"/>ſtinguiſh the Poſſeſſors of it, than Titles, Riches, or great Places: For tho 'theſe Men may command the Cap and the Knee, and extort ſome outward kind of Reverence from Inferiors; yet the Man of <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding is he, who is inwardly and truly reſpected, whilſt the Gaudy, but Empty Beau, is no other than the Scorn and Deri<g ref="char:EOLhyphen"/>ſion of all who Converſe with him. But
+<pb facs="tcp:42646:3"/>eſpecially a Man is then Eſteemed for his Knowledge, if his <g ref="char:V">Ʋ</g>nderſtanding is Emi<g ref="char:EOLhyphen"/>nent in things laudable, and of great Weight and Moment, for whatever is greatly uſeful is highly valuable.</p>
+            <p>And ſuch is the Knowledge, which I am endeavouring to provide for, by the follow<g ref="char:EOLhyphen"/>ing Propoſals.</p>
+            <p>For why? as to the Theological part; In the firſt place, this is a Knowledge Converſant about the greateſt Objects, God, and our ſelves; <hi>Secondly,</hi> and that a<g ref="char:EOLhyphen"/>bout the Grandest and most Concerning Truths relating to thoſe Objects. <hi>Thirdly,</hi> It is a Knowledge to which the moſt con<g ref="char:EOLhyphen"/>ſiderable of other Sciences are ſome way or other appendant and ſubſervient. <hi>Fourth<g ref="char:EOLhyphen"/>ly,</hi> It is a Knowledge founded upon more certain Principles than all other Sciences whatſoever (ſcarce the Mathematicks ex<g ref="char:EOLhyphen"/>cepted) All which ſpeak the Noble Na<g ref="char:EOLhyphen"/>ture
+<pb facs="tcp:42646:3"/>of Divine Knowledge. And Laſtly, It is the only Knowledge which can con<g ref="char:EOLhyphen"/>duct us ſafe through the Mazes and Laby<g ref="char:EOLhyphen"/>rinths of this World, to our Reſt and Hap<g ref="char:EOLhyphen"/>pineſs in the other; which does eminently ſhew the <g ref="char:V">Ʋ</g>ſefulneſs of it.</p>
+            <p>Nor will the other parts of Knowledge I propoſe to promote by the following kind of Libraries, be <g ref="char:V">Ʋ</g>nuſeſul. From Hiſtory we can take a noble view of all Mankind; and by our Obſervations from thence of the different Fates of Men, and their Cauſes, we may form to our ſelves most excellent Rules for the Conduct of Humane Life. Travels diſcover the Commodities of Foreign Countries, to the great Enriching of our own; and not only Merchants, but all other Perſons beſides, by reading the Accounts of ſo many Nations of Men in the World, ſunk down to the lowneſs of Brutes for want of Know<g ref="char:EOLhyphen"/>ledge, may ſee Infinite Reaſon to bleſs that
+<pb facs="tcp:42646:4"/>God, who by an admirable Religion enlight<g ref="char:EOLhyphen"/>ning our Minds, has rais'd us above the Ani<g ref="char:EOLhyphen"/>mal Life; and ſo vaſtly diſtinguiſhes us from the Barbarous part of Mankind. What ſhall I ſay? By Knowledge in Hu<g ref="char:EOLhyphen"/>manity or Morality, men become, as it were, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, diſpoſed for the Recep<g ref="char:EOLhyphen"/>tion of that Faith which will ſave 'em, and thoſe Divine Graces, which will render 'em capable of Eternal Life. By an Inſight into Nature, Gardening, Agriculture, <hi>&amp;c.</hi> All ſorts of Perſons will learn how to meliorate their Condition and manner of Living whilſt here on Earth. And if there may be added hereafter to our Libraries, the Beſt Authors in <hi>Mathematicks, Phyſick</hi> and <hi>Law,</hi> there will be no means wanting even in the moſt <g ref="char:V">Ʋ</g>ncultivated parts of this Kingdom, to render the Thinking, Reading, and the beſt part of the Inhabitants thereof both Intel<g ref="char:EOLhyphen"/>lectually, Morally and Civilly, as well as Di<g ref="char:EOLhyphen"/>vinely
+<pb facs="tcp:42646:4"/>Happy: For which Reaſons I hope, though this Deſign ſeems more immediately directed to the Service of the Clergy, yet Gentlemen, Phyſicians and Lawyers will perceive they are not neglected in it, and will ſee themſelves concerned to promote it.</p>
+            <p>And indeed thoſe Perſons of Quality, whoſe Eldeſt Sons being commonly brought up to no Employment, have a great deal of Time lying upon their Hands, ſeem to me to be as nearly concern'd as any, to <hi>favour</hi> it. For many of theſe young Gentle-Men, when removed from the <g ref="char:V">Ʋ</g>niverſities, thoſe Fountains of uſeful and ſubſtantial Knowledge, and reſiding all their Life-time in Countries, where they can meet with no Books to employ themſelves in reading, and whereby they may be able to improve the Ta<g ref="char:EOLhyphen"/>lent they have there gain'd; they do there<g ref="char:EOLhyphen"/>upon too commonly become not ſo conſpicuous for their Excellent Knowledge, and Mo<g ref="char:EOLhyphen"/>rals,
+<pb facs="tcp:42646:5"/>as will be ever expected from Men of Rank and Station in their Country. And when they happen into one another's Company, for want of Good Senſe, are forc'd too often to fill up their Diſcourſe, and maintain a Converſation, in the Porterly Language of Swearing, and Obſcenity.</p>
+            <p>In ſhort, I think all Perſons of a libe<g ref="char:EOLhyphen"/>ral and ingenuous Education, are ſo much concern'd in a Deſign of this Nature, that I cannot but flatter my ſelf with the Ex<g ref="char:EOLhyphen"/>pectations of ſome ſort of Succeſs in the <g ref="char:V">Ʋ</g>ndertaking. But however I hope I have offer'd at nothing which all candid Perſons will not own to be honeſtly deſign'd, and which Scholars of all Profeſſions will not at leastwiſe wiſh well to, though for want of men of a publick and active Spirit to ma<g ref="char:EOLhyphen"/>nage it in their reſpective Towns or Dean<g ref="char:EOLhyphen"/>aries, little or nothing ſhould be accompliſh'd in it.</p>
+         </div>
+      </front>
+      <body>
+         <div type="library_proposal">
+            <pb n="1" facs="tcp:42646:5"/>
+            <head>PROPOSALS TO THE <hi>Gentry and Clergy of this Kingdom,</hi> For Purchaſing Lending Libraries in all the Deanaries of <hi>England,</hi> and Parochial Libra<g ref="char:EOLhyphen"/>ries for <hi>Maryland, Virginia,</hi> and other of the Foreign Plantations, purſuant to what is ſpoke of Both, in the Prefatory Epiſtle to the <hi>Biblio<g ref="char:EOLhyphen"/>theca Parochialis.</hi>
+            </head>
+            <opener>
+               <salute>Honoured SIRS,</salute>
+            </opener>
+            <p>AMongſt the many Laudable Contrivances for pro<g ref="char:EOLhyphen"/>moting Religion and Learning in the World, in which ſeveral Perſons of a Publick Spirit have labour'd more or leſs in all Ages, there-ſeem none to me would be of greater Advantages to either, would tend more to cultivate the Minds of our young Gentry, and can be more adapted to the preſent Circum<g ref="char:EOLhyphen"/>ſtances of our <hi>Parochial Clergy</hi> (one third of whom I am afraid are not enabled by their Preferments to pur<g ref="char:EOLhyphen"/>chaſe
+<pb n="2" facs="tcp:42646:6"/>a fourth part of thoſe Books, which it is abſolutely neceſſary every Paſtor ſhould peruſe; and yet from whom great meaſures of Knowledge are expected in this inqui<g ref="char:EOLhyphen"/>ſitive Age) than if we could have <hi>Lending Librarïes</hi> diſpos'd, one in every Deanary throughout the King<g ref="char:EOLhyphen"/>dom, for the Service of thoſe who have occaſion to borrow. I ſhall not here repeat what I have already ſpoken of the Benefit thereof, both to Clergy and Laity, in the Prefatory Epiſtle to my <hi>Bibliotheca Parochialis:</hi> But having,</p>
+            <p>Firſt, <hi>Computed the Charge of each Library;</hi>
+            </p>
+            <p>Secondly, <hi>I will ſhew by what means they may be pur<g ref="char:EOLhyphen"/>chas'd:</hi>
+            </p>
+            <p>Thirdly, <hi>How they may be preſerv'd:</hi> And,</p>
+            <p>Firſt, <hi>As to the Charge,</hi> I preſume, if the Foundation of a Library were once laid in each Deanary, the Stock by one means or other would ſoon encreaſe to a compleat Sett of all neceſſary Books: And that well-choſen Books to the value of 30 <hi>l.</hi> would lay a good Foundation.</p>
+            <p>
+               <hi>Secondly,</hi> I am next to ſhew by what Methods they may be purchas'd; and the moſt eaſie and likely Me<g ref="char:EOLhyphen"/>thod I can propoſe, will be by Subſcriptions rais'd amongſt both Clergy and Gentry; each Clergy-man ſubſcribing at the Viſitation ſome ſmall matter proportionuble to the Value of his Living, or Circumſtances in the World; the Gentry, what in their Generoſity they ſhall think fit. And the Subſcriptions of both to be taken, and return'd to <hi>London;</hi> and the Libraries tranſmitted into the Coun<g ref="char:EOLhyphen"/>try in the Method following.</p>
+            <p n="1">
+               <pb n="3" facs="tcp:42646:6"/>1. That one Third of the Subſcription-Mony, <hi>viz.</hi> 10 <hi>l.</hi> be ſubſcrib'd, and paid at the next <hi>Eaſter</hi>-Viſitation, to the Rural Dean, or whom the Clergy of the Deanary ſhall agree upon, and return'd up to the Treaſurers of the Subſcriptions, Mr. <hi>Francis Evans,</hi> Secretary to the Lord Biſhop of <hi>Coventry</hi> and <hi>Litchfield,</hi> or Mr. <hi>Thomas Taylor</hi> at the Lord Almoner's Lodgings in <hi>White-Hall.</hi>
+            </p>
+            <p n="2">2. That within a Month after, the following Books to the value of Thirty Pound, be ſent down into the ſubſcribing Deanaries to ſuch Places as from the Vi<g ref="char:EOLhyphen"/>ſitation ſhall be directed. And that they be made up in ſuch Boxes, or Book-Preſſes, with Shelves in them, and Locks and Doors to 'em, as will ſerve both to preſerve 'em in the Carriage down, and in the Place where they ſhall be depoſited for the Publick Benefit. And being kept in ſuch moveable Repoſitories, they can at any time be remov'd to any other part of the Deanary, as by the Vote of the Clergy at a Viſitation ſhall be judged moſt convenient to have 'em lodg'd in; and that without the Charge of building any Room wherein to lay 'em up.</p>
+            <p n="3">3. That to make up the remaining two Thirds for the Purchaſe of the Books, each of the Clergy do in their reſpective Pariſhes' and amongſt the Gentry of their Ac<g ref="char:EOLhyphen"/>quaintance, ſollicit ſome ſmall Subſcription towards this Publick Deſign, by which ſuch Subſcribers, whether Gentlemen, or Ladies, will be entitled to the Priviledge of borrowing at any time a Book for their own Reading; and that there may be proper and acceptable Books for them, there are ſome of the moſt valuable pieces of Hi<g ref="char:EOLhyphen"/>ſtory,
+<pb n="4" facs="tcp:42646:7"/>Geography, and Travels, provided in the follow<g ref="char:EOLhyphen"/>ing Sett.</p>
+            <p n="4">4. That what is Subſcribed by the Gentry, be brought in to to the next <hi>Michaelmas</hi> Viſitation, and enter'd down in a Book, together with the Subſcriptions of the Clergy, to be kept in every Library: And if there be ſomething wanting to make up the remaining Twenty Pounds, it be made up by the Clergy, if there be any over, it be apply'd towards paying for the Book-Preſſes and Carriage down, and the Surpluſage be laid up in Bank againſt next <hi>Eoſter</hi> Viſitation after this, towards purchaſing another like quantity of Books, in order to compleat a uſeful and ſufficient Library in the reſpective Deanary.</p>
+            <p n="5">5. That the Books ſhall be afforded to the Subſcribers, ſomething below the Prices at which the Clergy, or Gentry uſually buy 'em by Retail in the Bookſellers Shops.</p>
+            <p n="6">6. That what <hi>Gratis</hi>-Books will be obtain'd of the Bookſeller, in conſideration of ſo many bought of 'em towards theſe <hi>Lending Libraries;</hi> that theſe be ſet apart towards making up <hi>Parochial Libraries</hi> for for the <hi>Fo<g ref="char:EOLhyphen"/>reign Plantations.</hi> And it is found, that one Library in ten at leaſt, will be obtain'd by this means towards the Publick Deſign; to which all Chriſtians, methinks, ſhould readily contribute; ſuch as are moſt able, by immedi<g ref="char:EOLhyphen"/>ate Benefactions; and every one that is <hi>not unable</hi> in ſuch a way as this, in which they have a valuable conſidera<g ref="char:EOLhyphen"/>tion to themſelves for what they do towards carrying on that <hi>neceſſary Work;</hi> for ſo I ſhall be bold to call it, if it
+<pb n="5" facs="tcp:42646:7"/>were but to ward off the Reproach under which we juſt<g ref="char:EOLhyphen"/>ly lye, even to this day; that whilſt our Adverſaries the <hi>Papiſts,</hi> are at vaſt Charges every Year, in promoting their falſe Superſtition in the remoteſt parts of the World, there are but too few amongſt us, <hi>pudet haec Opprobria dici, &amp; dici potuiſſe,</hi> who have yet ſhew'd that Value for their Religion, and the Honour of God, as to con<g ref="char:EOLhyphen"/>tribute in any conſiderable way to advance the Glory of their Saviour, by propagating the beſt Religion in the whole World, either here at home, or amongſt their Country-men abroad.</p>
+            <p>There is but one Objection I can foreſee againſt this Method of procuring theſe <hi>Lending Libraries,</hi> and that is the exceſſive ſcarcity of Money, eſpecially amongſt the Clergy at this time, when they are exhauſted more than others by Publick Payments.</p>
+            <p>But indeed, the very Objection it ſelf ſeems to me to be the moſt forcible Reaſon for putting a Deſign of this Nature on foot, and that eſpecially at this time. For is it ſo, that one third of the Engliſh Clergy, are not now in a Condition to buy a ſufficient quantity of Books? Well, but on the other ſide, I hope it will be granted, that Books muſt be had, or elſe Religion muſt e'en fall to the ground. And if ſo, putting both together, I think it will follow, that ſince very few are capable to furniſh their Studies at their own proper Coſt, it is therefore ne<g ref="char:EOLhyphen"/>ceſſary that all ſhould join their Forces; and what is im<g ref="char:EOLhyphen"/>poſſible for 'em ſingly, would be eaſie for 'em jointly; for <hi>Multorum manibus grande Levatur Onus;</hi> ſo that in<g ref="char:EOLhyphen"/>deed this is really the moſt proper Seaſon to ſet ſuch a Deſign on foot.</p>
+            <pb n="6" facs="tcp:42646:8"/>
+            <p>But then if we conſider to what a high Perfection, moſt, if not all parts of uſeful Learning have advanc'd in this laſt Age, ſo that we may rather fear a declenſion thereof (as is uſual with every thing when it comes to its full growth) than hope for much farther Improve<g ref="char:EOLhyphen"/>ments therein: But above all, if we conſider the impi<g ref="char:EOLhyphen"/>ous Principles which have begun to advance againſt us, and have gain'd ſo much ground upon us by the Indu<g ref="char:EOLhyphen"/>ſtry of ſome, who at great Charge and Expence, do la<g ref="char:EOLhyphen"/>bour to poiſon both Town and Country with their Athe<g ref="char:EOLhyphen"/>iſtical and Socinian Notions; Theſe things, I ſay, if duly conſider'd, will convince us, that this ſeems to be the very time pointed out by the Divine Providence for us to provide ourſelves of <hi>Magazines,</hi> out of which we may be ſufficiently furniſh'd with that Panoply of excellent Learning and Knowledge, whereby we ſhall ſecure our ſelves and others, <hi>againſt the fiery Darts of the Devil;</hi> and may be enabled at leaſtwiſe to ſtand our ground, whilſt Atheiſts, Deiſts and Socinians, do ſo <hi>earneſtly contend</hi> againſt <hi>the Faith.</hi> So much, upon many great Accounts, it ſeems to me to be a moſt proper Seaſon now to begin the Foundation of <hi>Lending Libraries</hi> throughout the Kingdom.</p>
+            <p>And whereas many of our Reverend Clergy have No<g ref="char:EOLhyphen"/>ble Libraries of their own, ſo as not to need themſelves a Supply of this Nature, I am not to doubt their Sub<g ref="char:EOLhyphen"/>ſcribing notwithſtanding, ſince the Deſign of theſe Libra<g ref="char:EOLhyphen"/>ries is not to ſerve a Man's private, but the publick Inter<g ref="char:EOLhyphen"/>eſt of Religion and Learning; which ſuch Reverend and Learned Perſons do well know (none better) that every one is bound to provide for, more than his own, eſpeci<g ref="char:EOLhyphen"/>ally thoſe whoſe Condition and Circumſtances in the World ſhall beſt enable 'em for good Works.</p>
+            <pb n="7" facs="tcp:42646:8"/>
+            <p>I am not indeed ſo ſanguine as to hope or expect, that notwithſtanding the Charge in the foregoing Method is made ſo eaſie, that a Clergy-man of Two hundred Pounds <hi>per Annum,</hi> need not ſubſcribe at a Viſitation above Ten or Fifteen Shillings, of One hundred Pound above Five or Ten Shillings, and of Fifty Pounds above half a Crown or Five Shillings; notwithſtanding this, I am not, I ſay, ſo unacquainted with the Temper of the World, as to expect that an Affair of this Nature ſhould not meet with Exceptions from ſome. And I alſo know the <hi>Prince of Darkneſs</hi> (the ſtrength of whoſe Kingdom does lye in the Ignorance of Mankind) has too much Intereſt at ſtake, to let a Deſign, which does ſo directly tend to the Ruine of his Dominion over the Souls of Men, go on without Obſtruction. But however the Manage<g ref="char:EOLhyphen"/>ment of this Affair falling into the hands of ſuch as do ſo well underſtand the Uſe and Benefit of Books, and who are withal ſo ſenſible of the peculiar need of 'em at this time, I hope there will be a ſufficient number found in moſt Deanaries of well-diſpoſed and publick-ſpirited Per<g ref="char:EOLhyphen"/>ſons, both amongſt the Clergy and Gentry, who will carry it on in their reſpective Diſtricts: And even thoſe, who may be backward at firſt, may come in afterwards, when they ſhall better conſider the Tendency which theſe Libraries will have to the Glory of God, and to in<g ref="char:EOLhyphen"/>creaſe the Uſefulneſs and Eſteem of the Clergy: So that tho' ſome ſhould happen at firſt to refuſe ſubſcribing, it will not I hope diſcourage others from promoting the Deſign, ſo far as to make up at next Viſitation the firſt Ten Pounds amongſt themſelves towards laying the Foundation.</p>
+            <pb n="8" facs="tcp:42646:9"/>
+            <p>
+               <hi>Thirdly, And now I am to ſhew how the Lending Libra<g ref="char:EOLhyphen"/>ries particularly, may be preſerv'd.</hi>
+            </p>
+            <p>How the <hi>Parochial</hi> may be ſecur'd from Loſs or Imbezelment, is, I hope ſatisfactorily ſhewed in the Prefatory Epiſtle to the <hi>Bibliotheca Parochialis:</hi> But it being deſign'd that theſe <hi>Lending Libraries</hi> ſhould <hi>travel abroad,</hi> it may ſeem that the Books will be in danger to be ſoon loſt by paſſing through ſo many hands: However, in order to their being fully ſecur'd, it may be provided by theſe following Methods; 1. That they be marked upon the Covers to what Deanary they belong. 2. That they be lock'd up in Book-Preſſes made on pur<g ref="char:EOLhyphen"/>poſe to keep them in. 3. That they be depoſited with the Rural Dean, or with the Miniſter or School-Maſter in ſome Market-Town, if near the Centre of the Dean<g ref="char:EOLhyphen"/>ary, that ſo they may with very little trouble be ſent for any Market-day, and as eaſily return'd within a li<g ref="char:EOLhyphen"/>mited time: And it may be preſum'd, that any Miniſter or School-Maſter, for the uſe of ſuch a Library un<g ref="char:EOLhyphen"/>der his Key, will be willing to undertake the trouble to lend out the Books, and receive them in upon occaſion. 4. That the Limitation of Time for keeping a borrowed Book be determined by the Reverend Sub<g ref="char:EOLhyphen"/>ſcribers at the Viſitation, as a Month for a Folio, a Fort<g ref="char:EOLhyphen"/>night for a 4<hi>o.</hi> and a Week for an 8<hi>o</hi> which will have this good Effect, that a Book will be read over with ſpeed and care; which if one's own, might lye in a Study without being quickly or very carefully peruſed, upon preſumption that being one's own it may at any time be read; and therefore this by the way may be conſider'd as one Advantage of <hi>Lending Libraries.</hi> 5. That the Borrower having ſent a Note deſiring any Book, his
+<pb n="9" facs="tcp:42646:9"/>Note be filed up, and his Name enter'd in a Book kept in the Library for that purpoſe, what Year, Month and Day he borrowed ſuch a Book; and upon the Return of the Book, the Note be alſo return'd, and the Name of the Borrower croſs'd out. 6. That a Regiſter of the Books belonging to every Deanary, be given to the re<g ref="char:EOLhyphen"/>ſpective Biſhops, and Arch-Deacons. 7. That each Library may be viſited once a Year by the Arch-Deacon in Perſon, or by three of his Clergy deputed by him to ſee that the Books be not imbezeled or loſt. And by theſe means I believe they will be very well preſerv'd; for why? Their being Letter'd to what Deanary they belong, will prevent their being transferr'd into any Man's private keeping; or if they are, they'll be as rea<g ref="char:EOLhyphen"/>dily diſcover'd and own'd, as any living Creature by its Ear-Mark; and the Arch-Deacon's Viſitation will call 'em all in once a-year: And indeed ſo far am I from fear<g ref="char:EOLhyphen"/>ing that theſe Libraries will ſuffer any Diminution by loſs of Books, that I believe they will daily encreaſe; for the thing being once put on foot, the Clergy at eve<g ref="char:EOLhyphen"/>ry Viſitation will be apt to continue ſome ſmall Sub<g ref="char:EOLhyphen"/>ſcriptions to buy in the new pieces as they ſhall come forth; eſpecially ſuch as ſhall tend conſiderably to the improvement of any part of Chriſtian Knowledge. And moreover, the Foundation being once laid, many Learned Perſons amongſt the Clergy, and others who have a Zeal for the Churches Good, will be likely to leave at their Death, their own Libraries, as additions to theſe Lend<g ref="char:EOLhyphen"/>ing Libraries propoſed, and perhaps Legacies to buy Books: Not to ſay that the thing being once be<g ref="char:EOLhyphen"/>gun, I could eaſily propoſe, how the whole Courſe of Hiſtory and Humanity may be added; and that far<g ref="char:EOLhyphen"/>ther means may be found out in time, to provide all
+<pb n="10" facs="tcp:42646:10"/>the <hi>Smaller Livings</hi> throughout the Kingdom, with ſuch <hi>Leſſer Parochial Libraries</hi> as are deſign'd for the Plan<g ref="char:EOLhyphen"/>tations.</p>
+            <p>But to proceed, if now and then a Book ſhould be loſt, this ought no more to diſcourage our Deſign, than it ſhould have hindered our Fore-Fathers from building of Parſonage-Houſes for us, becauſe ſometimes they fall to decay; or from giving Tythes and Glebe for the Main<g ref="char:EOLhyphen"/>tenance of the Clergy, becauſe theſe do ſuffer daily di<g ref="char:EOLhyphen"/>minutions by Modus's growing upon us through the importunity of ſome, and the more Violent Sacrilegious Invaſions of the Churches Rights by others. Not to ſay, That there may be Proviſion made by Law to ſecure theſe Libraries, and to repair their Loſs, as well as the other Dilapidations of the Church.</p>
+            <p>And indeed, if it could be brought about by any means, that we might have 400 <hi>Lending Libraries</hi> fixt throuh<g ref="char:EOLhyphen"/>out the Kingdom, and the Clergy, by a ſmall Subſcrip<g ref="char:EOLhyphen"/>tion in every Deanary, ſhould continue to add the valu<g ref="char:EOLhyphen"/>able new Books that ſhall come out hereafter; Here would be a ſufficient Incouragement provided for the Learned Men of our Univerſities, to undertake the giving us ſome more ſuch Editions of the Fathers, and other Anci<g ref="char:EOLhyphen"/>ent Writers, as that of St. <hi>Cyprian, Thucydides,</hi> &amp;c. A cer<g ref="char:EOLhyphen"/>tain Sale of 400 Books, being enough to diſcharge an Im<g ref="char:EOLhyphen"/>preſſion; which one thing, as it has in this Age ſo much contributed to the Learning and Honour of a Neigh<g ref="char:EOLhyphen"/>bouring Nation, where, upon the Encouragement of the Monaſteries taking off each of 'em, one of every New Edi<g ref="char:EOLhyphen"/>tition of a <hi>Father,</hi> or other Book of Value, the Learned of that Kingdom have been thereby encouraged, and
+<pb n="11" facs="tcp:42646:10"/>enabled to give the World ſuch Editions as they may juſty glory in; ſo it would make exceedingly for the <hi>Honour of our <g ref="char:V">Ʋ</g>niverſities,</hi> and not a little for the <hi>Int'reſt of our Nati<g ref="char:EOLhyphen"/>on:</hi> For as to the former. it would raiſe a Noble Spirit of Emulation in thoſe Learned Societies, and would excite more of the Members thereof, to Exert themſelves in being ſerviceable to the World in this kind; who now for want of Encouagement, cannot ſpend their time ſo much to their own, and the Publick Good in this way, as other<g ref="char:EOLhyphen"/>wiſe they might. And as to the latter, whereas ſome Thouſand Pounds worth of Valuable Books, Printed in Foreign parts, have been Imported Yearly, we by reaſon of the better Editions of the Ancient Writers, which our more Learned Men are able to give the World, might be able to employ our own Paper-Makers, Stationers, Printers, Book-Binders, Book-Sellers here at home, to the maintaining many Thouſand Perſons amongſt us, and might export ſo much of our own, and Foreign Paper Manufactured by our ſelves, as would turn the Balance of that part of Trade conſiderably on our own ſide.</p>
+            <p>And now I am to entreat the Candour of my Reverend Brethren, that, however I may be miſtaken in the Pra<g ref="char:EOLhyphen"/>cticableneſs of this Deſign, they would believe I ſincere<g ref="char:EOLhyphen"/>ly intend the Good of Souls, and the Honour of my Function, and of my Nation too, in all that is here pro<g ref="char:EOLhyphen"/>pos'd. That I am ſo preſſing for both <hi>Parochial Libra<g ref="char:EOLhyphen"/>ries</hi> in the Plantations, and <hi>Lending Libraries</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> is, becauſe in the former, I know no good a Cler<g ref="char:EOLhyphen"/>gy, who are not able to furniſh themſelves with Books in going over, can do in a Country where none are
+<pb n="12" facs="tcp:42646:11"/>to be bought when they are there, nor to be had from the Merchants, but at exceſſive Rates. And in the lat<g ref="char:EOLhyphen"/>ter, I am certain that Good cannot be done, which is expected from every Miniſter here in <hi>England,</hi> when the Third Part of our Parochial Clergy are not enabled by their Preferments, to buy the fourth part of thoſe Books, which are neceſſary to enable 'em fully to inſtruct the People in the meer Neceſſaries to Salvation. And as for our younger Gentry, I cannot think but it would tend extreamly to furniſh their Minds alſo with that uſeful Knowledge in Hiſtory, Travels, Humanity, Agriculture, and all ſuch Noble Arts and Sciences, as will render 'em ſerviceable to their Families and Countries, and will make 'em conſiderable both at home and abroad: And that it will very much keep 'em from idle Converſation, and the Debaucheries attending it, to have choice Collections of ſuch Books diſpers'd through all the King<g ref="char:EOLhyphen"/>dom, and waiting upon 'em in their own Parlors, as will ennoble their Minds with Principles of Vertue and true Honour, and will file off that Roughneſs, Ferity and Barbarity, which are the never failing Fruits of Ignorance and Illiterature. <hi>Standing Libraries</hi> will ſignifie little in the Country, where Perſons muſt ride ſome miles to look into a Book; ſuch Journeys being too expenſive of Time and Money: But <hi>Lending Libraries,</hi> which come home to 'em without Charge, may tolerably well ſupply the Vacancies in their own Studies, till ſuch time as theſe <hi>Lending</hi> may be improv'd into <hi>Parochial Libraries.</hi>
+            </p>
+            <p>And whereas it may be objected, that the Books will be ſo often Borrow'd, that it will be hard for any one to have the Book he wants. I am ſo far from being much concern'd to anſwer it, that I heartily wiſh the great
+<pb n="13" facs="tcp:42646:11"/>Uſe and frequent Borrowing of Books out of theſe Li<g ref="char:EOLhyphen"/>braries, may make it a real Objection. But to reply as far as neceſſary; the Limitations mention'd above, will fetch home any Book a Perſon ſhall want, within a Month at fartheſt; and indeed there being ſeveral Authors ſpe<g ref="char:EOLhyphen"/>cify'd in ſuch a Library, as I deſign, upon moſt of the Subjects, if one be not to be had, Satisfaction may be fought in the mean time from another. And, in the whole, I am the more forward to hope for great Advan<g ref="char:EOLhyphen"/>tages from theſe <hi>Lending Libraries</hi> eſpecially, having had ſome Experience of the Benefit thereof in a Country, where one ſuch Library left by a Pious and Learned Di<g ref="char:EOLhyphen"/>vine at his Death, has done much to improve many of the Parochial Clergy within ſome Miles, (who conſtantly borrow out of it,) to that degree, as to make 'em as uſe<g ref="char:EOLhyphen"/>ful Men in their Station, as any I have had the Happi<g ref="char:EOLhyphen"/>neſs to be acquainted with.</p>
+            <p>In ſhort, as meer Zeal for Publick Service hath excited me to leave no Stone unturn'd, to procure <hi>Parochial Li<g ref="char:EOLhyphen"/>braries</hi> for the Plantations, in which I thank God I have had hitherto no mean Succeſs; ſo if with the ſame Labour I can be ſerviceable in the like Deſign to my deareſt Mo<g ref="char:EOLhyphen"/>ther the Church, and my Reverend Brethren at home, I ſhall think my ſelf ſufficiently happy in ſuch an Employment: And indeed, as I know not that thing in the World, where<g ref="char:EOLhyphen"/>in I could take that Satisfaction, as in this piece of Service to our Church at home; ſo provided this Deſign of <hi>Lending Libraries</hi> in <hi>England</hi> ſhould univerſally take, whereby, without any Man's Charge, properly ſpeak<g ref="char:EOLhyphen"/>ing, ſo great an Advance will be made towards <hi>Parochial Libraries</hi> in the Plantations: Inſtead of <hi>Libraries</hi> for <hi>Maryland,</hi> the bounds of my firſt Deſign, I ſhall not on<g ref="char:EOLhyphen"/>ly
+<pb n="14" facs="tcp:42646:12"/>extend my Endeavours for the Supply of all the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Colonies in <hi>America</hi> therewith; but can moſt wil<g ref="char:EOLhyphen"/>ling be a Miſſionary into every one of thoſe Provinces, to fix and ſettle them therein when they are obtain'd, being ſo fully perſwaded of the great Benefit of theſe kind of <hi>Libraries,</hi> that I ſhould not think 'em too dear a Pur<g ref="char:EOLhyphen"/>chaſe, even at the hazard of my Life, being to both Church and Clergy</p>
+            <closer>
+               <signed>
+                  <hi>A most Devoted, and Humble Servant,</hi> THO. BRAY.</signed>
+            </closer>
+         </div>
+         <div type="note">
+            <pb n="15" facs="tcp:42646:12"/>
+            <list>
+               <item>Note, 1. <hi>In thoſe Large and Populous Cities, where there will be Subſcribers enough to raiſe a Library, there the Library may be appropriated ſolely to the <g ref="char:V">Ʋ</g>ſe of the Clergy and Gentry of that Place; only it may be expected from the Clergyeſpecially, that their</hi> Quota <hi>of Subſcriptions be made alſo towards the Deanary-Libraries for the <g ref="char:V">Ʋ</g>ſe of the Rural Clergy, it being the Firſt and Principal Deſign to ſupply them, eſpecially thoſe in ſmaller Vi<g ref="char:EOLhyphen"/>carages and Curacies.</hi>
+               </item>
+               <item>2. <hi>If in the ſame Deanary there are ſeveral Market-Towns, it would be happy if the Foundation of a Library could be laid in each of 'em, Libraries being more peculiarly uſeful in Market-Towns, where, though it be requiſite the Abilities of the Clergy ſhould he the greateſt, yet the Proviſion and Maintenance for that Purpoſe is commonly the leaſt.</hi>
+               </item>
+               <item>3. <hi>If the Foundation of a Library can be laid in every Market-Town, then the adjacent Clergy and Gentry may entitle them<g ref="char:EOLhyphen"/>ſelver by their Subſcriptions, to the Library of ſuch Neighbour<g ref="char:EOLhyphen"/>ing Towns, from whence they ſhall be able with moſt eaſe and conveniency to ſend for a Book at any time.</hi>
+               </item>
+               <item>4. <hi>If theſe Deanary-Subſcribtions ſhall ſo multiply, that any one of the Books propoſed in the following Sett ſhall become ſo ſcarce, as not to be had at all, or at an unreaſonable rate, then another Book equivalent in its intrinſick Worth and Price ſhall be ſent in its ſtead.</hi>
+               </item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="library_catalogue">
+            <pb facs="tcp:42646:13"/>
+            <pb n="17" facs="tcp:42646:13"/>
+            <head>THE <hi>CATALOGUE of BOOKS</hi> Deſign'd to lay the Foundation of <hi>Lending-Libraries</hi> To be fix'd in all the Market-Towns in <hi>England,</hi> FOR <hi>The <g ref="char:V">Ʋ</g>ſe of the</hi> Clergy, School-Maſters, <hi>and</hi> Gentlemen <hi>of ſuch Towns, and Pariſhes adjoining, as ſhall ſubſcribe towards the Purchaſe of the ſaid Books.</hi>
+            </head>
+            <list>
+               <head>Hiſtory,</head>
+               <item>Ecceleſiaſtical,
+<list>
+                     <item>General.
+<list>
+                           <item>
+                              <hi>D<g ref="char:V">Ʋ</g>pin</hi>'s Eccleſiaſtical Hiſtory, 3 <hi>Vol. Fol. Platina</hi>'s Lives of the Pope's; continu'd by Sir <hi>Paul Ricaut. Fol.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <pb n="18" facs="tcp:42646:14"/>
+                     <item>Particular,
+<list>
+                           <item>
+                              <hi>Sleidan</hi>'s Hiſtory of the Reformation of the Church, from the Errors and Corruptions of the Church of <hi>Rome, Fol.</hi>
+                           </item>
+                           <item>Biſhop <hi>Burnet</hi>'s Hiſtory of the Reformation of the Church of <hi>England,</hi> 2 <hi>Vol. Fol.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>Civil,
+<list>
+                     <item>General,
+<list>
+                           <item>
+                              <hi>
+                                 <g ref="char:V">Ʋ</g>ſſerii</hi> Annales V. &amp; N. Teſtamenti, <hi>Fol.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Particular,
+<list>
+                           <item>
+                              <hi>Puffendorf</hi>'s Introduction to the Hiſtory of <hi>Eu<g ref="char:EOLhyphen"/>rope,</hi> 8<hi rend="sup">o</hi>,</item>
+                           <item>
+                              <hi>Mazaray</hi>'s Hiſtory of <hi>France, Fol.</hi>
+                           </item>
+                           <item>Sir <hi>R. Baker</hi>'s Chronicle of the Kings of <hi>England,</hi> continu'd to the latter End of King <hi>Charles</hi> the Second, <hi>Fol.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Geography and Travels,</head>
+               <item>General,
+<list>
+                     <item>
+                        <hi>Varenius</hi>'s Geography, with <hi>Sanſon</hi>'s Maps, and the County-Maps of <hi>England, Fol.</hi>
+                     </item>
+                     <item>
+                        <hi>Theſaurus Geographicus, Fol.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Particular,
+<list>
+                     <item>
+                        <hi>Camden</hi>'s <hi>Britannia, Fol.</hi>
+                     </item>
+                     <item>Dr. <hi>Brown</hi>'s Travels through the greateſt part of <hi>Europe, Fol.</hi>
+                     </item>
+                     <pb n="19" facs="tcp:42646:14"/>
+                     <item>
+                        <hi>Miſſon</hi>'s Travels to <hi>Italy,</hi> 2 <hi>Vol.</hi> 8<hi rend="sup">o</hi>.</item>
+                     <item>Sir <hi>George Wheeler</hi>'s Travels into <hi>Greece, Fol.</hi>
+                     </item>
+                     <item>Sir <hi>John Chardin</hi>'s Travels through the <hi>Black Sea,</hi> and the Country of <hi>Colchis</hi> into <hi>Perſia,</hi> and the <hi>Eaſt-Indies.</hi>
+                     </item>
+                     <item>
+                        <hi>Knox</hi>'s Hiſtory of the Iſland of <hi>Ceylon, Fol.</hi>
+                     </item>
+                     <item>
+                        <hi>Gage</hi>'s Deſcription of the <hi>West-Indies,</hi> 8<hi rend="sup">o</hi>.</item>
+                     <item>
+                        <hi>Dampier</hi>'s Voyage round the World, 8<hi rend="sup">o</hi>.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Theology,</head>
+               <item>I. Apologetical,
+<list>
+                     <item>
+                        <hi>Grotius de Veritate Chriſtianae Religionis,</hi> 1<hi rend="sup">o</hi>.</item>
+                     <item>
+                        <hi>Parker</hi>'s Demonſtration of the Law of Nature, and of the Divine Authority of the Chriſtian Reli<g ref="char:EOLhyphen"/>gion, 4<hi rend="sup">o</hi>.</item>
+                     <item>Biſhop <hi>William</hi>'s Sermons at Mr. <hi>Boyle</hi>'s Le<g ref="char:EOLhyphen"/>ctures, 4<hi rend="sup">o</hi>.</item>
+                     <item>Biſhop <hi>Wilkin</hi>'s Natural Religion, 8<hi rend="sup">o</hi>.</item>
+                  </list>
+               </item>
+               <item>II. General Bodies of Divinity,
+<list>
+                     <item>
+                        <hi>Ellis</hi> 39 Articuli, 12<hi rend="sup">o</hi>.</item>
+                     <item>Dr. <hi>Scot</hi>'s Works, 4 <hi>Vol.</hi> 8<hi rend="sup">o</hi>.</item>
+                     <item>
+                        <hi>Phillippià Limborch Theologia Chriſtiana, Fol.</hi>
+                     </item>
+                     <item>
+                        <hi>Turretini Compendium,</hi> 4<hi rend="sup">o</hi>.</item>
+                  </list>
+               </item>
+               <item>III. Particular upon ſome of the more impor<g ref="char:EOLhyphen"/>tant Subjects.
+<list>
+                     <item>Firſt, <hi>Upon the Whole Body of Chriſtian Faith, or on ſome of its Great Articles.</hi>
+                        <list>
+                           <item>Biſhop <hi>Pearſon</hi> on the Creed, <hi>Fol.</hi>
+                           </item>
+                           <pb n="20" facs="tcp:42646:15"/>
+                           <item>Dr. <hi>Pelling</hi>'s Divine Exiſtence, 8<hi rend="sup">o</hi>.</item>
+                           <item>Biſhop <hi>Stillingfleet</hi>'s Vindication of the Holy Trinity, 8<hi rend="sup">o</hi>.</item>
+                           <item>—Upon the Satisfaction of Chriſt, 8<hi rend="sup">o</hi>.</item>
+                           <item>Dr. <hi>Hody</hi> upon the Reſurrection, 8<hi rend="sup">o</hi>.</item>
+                           <item>Dr. <hi>Sherlock</hi> on Death, 8<hi rend="sup">o</hi>.</item>
+                           <item>—On Judgment, 8<hi rend="sup">o</hi>.</item>
+                        </list>
+                     </item>
+                     <item>Secondly, <hi>Upon what relates to the Duties of Christianity, and upon the Duties themſelves.</hi>
+                        <list>
+                           <item>
+                              <hi>Suarez de Legibus, Fol.</hi>
+                           </item>
+                           <item>Biſhop <hi>Taylor's Ductor Dubitantium, Fol.</hi>
+                           </item>
+                           <item>
+                              <hi>Sanderſon de Obligatione Conſcientiae,</hi> 8<hi rend="sup">o</hi>.</item>
+                           <item>—9 <hi>Caſus,</hi> 8<hi rend="sup">o</hi>.</item>
+                           <item>Whole Duty of Man's Works.</item>
+                           <item>
+                              <hi>Kettlewel</hi>'s Meaſures of Chriſtian Obedience, 8<hi rend="sup">o</hi>.</item>
+                           <item>
+                              <hi>Goodman</hi>'s Penitent pardon'd, 8<hi rend="sup">o</hi>.</item>
+                           <item>Biſhop <hi>Patrick</hi> on Repentance, and the Lent-Faſt.</item>
+                           <item>Dr. <hi>Hooper</hi> on the Lent-Faſt, 8<hi rend="sup">o</hi>.</item>
+                           <item>
+                              <hi>Kettlewel</hi> on the Sacrament, 8<hi rend="sup">o</hi>.</item>
+                           <item>Dr. <hi>Lucas</hi> of Happineſs, 3 <hi>Parts,</hi> 8<hi rend="sup">o</hi>.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>IV. Sermons.
+<list>
+                     <item>
+                        <hi>Tillotſon</hi>'s Sermons, <hi>Fol.</hi>
+                     </item>
+                     <item>Sir <hi>Matth. Hales</hi>'s Contemplations, Moral and Di<g ref="char:EOLhyphen"/>vin, 3 <hi>Parts,</hi> 8<hi rend="sup">o</hi>.</item>
+                  </list>
+               </item>
+               <item>V. Controverſie.
+<list>
+                     <item>Dr. <hi>Comber</hi>'s <hi>Roman</hi> Forgeries, with the Church-Hiſtory, 4 <hi>Parts,</hi> 4<hi rend="sup">o</hi>.</item>
+                     <item>Mr. <hi>Allen</hi>'s Works, 4 <hi>Parts,</hi> 8<hi rend="sup">o</hi>.</item>
+                     <pb n="21" facs="tcp:42646:15"/>
+                     <item>
+                        <hi>Falkner</hi>'s <hi>Libertas Eccleſiaſtica,</hi> 8<hi rend="sup">o</hi>.</item>
+                     <item>Biſhop <hi>King</hi>'s Invention's of Men in the Worſhip of God, with the Defences, 8<hi rend="sup">o</hi>.</item>
+                     <item>Snake in the Graſs, 8<hi rend="sup">o</hi>.</item>
+                  </list>
+               </item>
+               <item>VI. Humanity,
+<list>
+                     <item>
+                        <hi>Virgil, In <g ref="char:V">Ʋ</g>ſum Delphini.</hi>
+                     </item>
+                     <item>
+                        <hi>Horace, In <g ref="char:V">Ʋ</g>ſum Delphini.</hi>
+                     </item>
+                     <item>
+                        <hi>Juvenal,</hi> and <hi>Perſius, In <g ref="char:V">Ʋ</g>ſum Delphini.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>VII. Towards the promoting of Natural Knowledge.
+<list>
+                     <item>Dr. <hi>Gibſon</hi>'s Anatomy, 8<hi rend="sup">o</hi>.</item>
+                     <item>Compleat Gardener, by Monſieur <hi>Quintinie, Fol.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <pb n="22" facs="tcp:42646:16"/>
+               <head>AN ADDITION of BOOKS To the Value of Ten Pounds, to be ſent into ſuch <hi>Deanaries,</hi> where the Clergy are in a Con<g ref="char:EOLhyphen"/>dition, and the Gentry are forward to lay a larger Foundation for theſe <hi>Lending-Libraries;</hi> the Money to be return'd, one half at pre<g ref="char:EOLhyphen"/>ſent, the other at the next <hi>Michaelmas</hi>-Viſita<g ref="char:EOLhyphen"/>tion.</head>
+               <item>DR. <hi>Howell</hi>'s Univerſal Hiſtory, 3 <hi>Vol. Fol.</hi>
+               </item>
+               <item>Hiſtory of the Council of <hi>Trent, Fol.</hi>
+               </item>
+               <item>Archbiſhop <hi>Laud</hi>'s Liſe, Publiſh'd by Mr. <hi>Wharton, Fol.</hi>
+               </item>
+               <item>
+                  <hi>Thevenot</hi>'s Travels into <hi>Perſia</hi> and the <hi>Eaſt-Indies, Fol.</hi>
+               </item>
+               <item>Dr. <hi>Barrow</hi>'s Sermon's, 3 <hi>Vol. Fol.</hi> not now to be had, but will be reprinted if this Deſign takes, as will many other valuable Books now out of Print, particularly the next, <hi>viz.</hi>
+               </item>
+               <item>The <hi>London</hi> Divines Caſes againſt the Diſſenters, <hi>Fol.</hi>
+               </item>
+            </list>
+            <p>N. <hi>Commentators upon the Scriptures, ſuch as Dr.</hi> Hammond<hi>'s Annotations, and Biſhop</hi> Pa<g ref="char:EOLhyphen"/>trick<hi>'s Paraphraſes, are not inſerted in this</hi> Catalogue, <hi>becauſe ſuch ought to be always at hand to be conſulted upon occaſion; whereas the Books falling under this Deſign are to be read through, and then ſpeedily return'd.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="by_the_same_author">
+            <pb facs="tcp:42646:16"/>
+            <head>ADVERTISEMENT.</head>
+            <p>
+               <hi>BIBLIOTHECA PAROCHIALIS:</hi> Or, A Scheme of ſuch Theological Heads, both General and Particular, as are more pecu<g ref="char:EOLhyphen"/>liarly Requiſite to be well Studied by every Paſtor of a Pariſh: Together with a <hi>Catalogue of Books</hi> which may be Read upon each of thoſe Points. <hi>By</hi> THOMAS BRAY, <hi>D. D.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>E. H.</hi> for <hi>Robert Clavel,</hi> at the <hi>Peacock</hi> in St. <hi>Paul</hi>'s Church-Yard, 1697.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
